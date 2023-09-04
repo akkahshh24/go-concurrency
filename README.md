@@ -10,3 +10,6 @@ https://arshad404.medium.com/s1e3-mastering-concurrency-with-worker-pool-in-gola
 
 Medium - S1E4: Mastering Concurrency Fan-In Design Pattern
 https://arshad404.medium.com/s1e4-fan-in-concurrency-design-pattern-in-go-1856c2348f11
+
+Medium - S1E5: Mastering the Concurrency — Fan Out Design Pattern
+https://arshad404.medium.com/s1e5-mastering-the-concurrency-in-go-with-fan-out-design-pattern-ec0c2ac2a0ad
