@@ -7,3 +7,6 @@ https://arshad404.medium.com/s1e2-concurrency-boring-desing-pattern-in-go-47b6e2
 
 Medium - S1E3: Mastering Concurrency with Worker Pool in GoLang: A Scalable Solution for Efficient Task Processing
 https://arshad404.medium.com/s1e3-mastering-concurrency-with-worker-pool-in-golang-a-scalable-solution-for-efficient-task-4d1d41a5b7d5
+
+Medium - S1E4: Mastering Concurrency Fan-In Design Pattern
+https://arshad404.medium.com/s1e4-fan-in-concurrency-design-pattern-in-go-1856c2348f11
